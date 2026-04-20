@@ -14,5 +14,7 @@ int main() {
     else
         std::cout << year << " is not a leap year.\n";
 
+    std::cout<<"test";
+
     return 0;
 }
